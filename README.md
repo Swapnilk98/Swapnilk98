@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **Frontend Masters**
+- 🔭 I’m currently working on **Frontend Masters Clone**
 
 - 🌱 I’m currently learning **React**
 
