@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📝 I regularly write articles on [https://medium.com/@kapadnisswapnil55/frontend-masters-website-project-db3927cbf6be](https://medium.com/@kapadnisswapnil55/frontend-masters-website-project-db3927cbf6be)
+- 📝 I regularly write articles on https://medium.com/@kapadnisswapnil55
 
 - 💬 Ask me about **MERN, Backend**
 
