@@ -1,7 +1,7 @@
 ![MasterHead](https://camo.githubusercontent.com/2dcf1a73f7dcb84e53882d821de7b61d4362388b92e1f9d974563c489abeb342/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3730302f302a4647443642557a7a5a7331564a4c75592e676966)
 
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
-<h2 align="center">A passionate MERN developer</h2>
+<h2 align="center">A Passionate MERN Stack Developer</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=swapnilk98" alt="swapnilk98" /></a> </p>
 <img align="right" alt="coding" width="300" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif"
 
@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **Frontend Masters Clone**
+- 🔭 I’m currently working on **NORDSTROMRACK**
 
 - 🌱 I’m currently learning **React**
 
