@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **Everhour.com web clone**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Backend**
 
 - 📝 I regularly write articles on https://medium.com/@kapadnisswapnil55
 
