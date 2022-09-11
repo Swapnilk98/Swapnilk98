@@ -11,7 +11,7 @@
 
 
 
-- 🔭 I’m currently working on **NORDSTROMRACK**
+- 🔭 I’m currently working on **Everhour.com web clone**
 
 - 🌱 I’m currently learning **React**
 
@@ -27,7 +27,6 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/swapnil-kapadnis-726263178" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swapnil-kapadnis-726263178" height="30" width="40" /></a>
-<a href="https://instagram.com/kapadnisswapnil08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kapadnisswapnil08" height="30" width="40" /></a>
 <a href="https://medium.com/@kapadnisswapnil55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kapadnisswapnil55" height="30" width="40" /></a>
 </p>
 
